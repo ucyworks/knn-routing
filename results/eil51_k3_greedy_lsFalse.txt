@@ -1,0 +1,11 @@
+Problem: eil51
+K: 3
+Strategy: greedy
+Local Search: False
+Solution Distance: 745.31
+Optimal Distance: 426
+Gap: 74.96%
+Computation Time: 0.0000 seconds
+
+Solution for eil51 - Total Distance: 745.31
+  Route: 0 -> 12 -> 4 -> 37 -> 43 -> 1 -> 46 -> 47 -> 19 -> 48 -> 9 -> 30 -> 42 -> 11 -> 23 -> 8 -> 32 -> 13 -> 20 -> 50 -> 45 -> 33 -> 3 -> 21 -> 16 -> 34 -> 5 -> 36 -> 22 -> 29 -> 28 -> 2 -> 7 -> 18 -> 41 -> 39 -> 24 -> 15 -> 10 -> 14 -> 38 -> 35 -> 6 -> 31 -> 44 -> 40 -> 25 -> 17 -> 26 -> 27 -> 49 -> 0, Distance: 745.31
